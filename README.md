@@ -18,4 +18,4 @@
 
 4、**app.py**是网页页面服务的实现，**book_worcloud.py**实现词云的生成。
 
-5、页面的实现应用了Flask框架、Echarts图表、wordcloud词云等。
+5、页面的实现应用了[Flask框架](https://flask.palletsprojects.com/en/1.1.x/)、[Echarts图表](https://echarts.apache.org/zh/index.html)、[wordcloud词云]()等。
